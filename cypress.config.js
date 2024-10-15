@@ -5,7 +5,7 @@ module.exports = defineConfig({
     baseUrl: 'http://localhost',
     env: {
       hideCredentials: true,
-      requestMode: true,
+      requestMode: true, 
     },
     experimentalRunAllSpecs: true,
   },
